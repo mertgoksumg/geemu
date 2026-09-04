@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Geemu</string>
+    <string name="accessibility_service_label">Geemu Oyun Modu</string>
+    <string name="accessibility_service_description">Kayıtlı controller bağlandığında Geemu’yu açar; çıkarıldığında oyunu ana ekrana gönderir ve ekranı dikey kilitler.</string>
+</resources>

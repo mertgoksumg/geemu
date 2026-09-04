@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <!-- Razer devices; Kishi V2 Pro is accepted without manual registration. -->
+    <usb-device vendor-id="5426" />
+    <!-- Generic non-boot HID devices such as USB gamepads. -->
+    <usb-device class="3" subclass="0" protocol="0" />
+</resources>
